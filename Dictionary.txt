@@ -1,0 +1,39 @@
+Coursera Project
+Getting and Clearning Data
+
+The "Identifier" column designates the subject doing the activity, which was 30 subjects
+The "Activity" column is the activity performeed by the subject:
+
+The next 33 columns correspond to the specific feature recorded for each axis which was averaged for each subject and each
+activity:
+WALKING
+
+WALKING_UPSTAIRS
+
+WALKING_DOWNSTAIRS
+
+SITTING
+
+STANDING
+
+LAYING
+
+
+The following below list the features:
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
